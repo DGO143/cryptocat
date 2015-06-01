@@ -83,5 +83,5 @@ Connectez-vous à Facebook Chat via Cryptocat. Mettez en place des chats crypté
 Discuter via Facebook
 État de la conversation
 chiffrée.
-pas chiffrée!
+non chiffrée!
 Cette conversation n'est pas cryptée car ce contact  n'utilise pas Cryptocat. Demandez à votre ami de télécharger Cryptocat pour profiter d'une conversation cryptée.
